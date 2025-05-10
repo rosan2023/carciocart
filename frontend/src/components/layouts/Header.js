@@ -25,7 +25,7 @@ export default function Header () {
               <p  style={{color:'white'}}>Vehicles and Parts available</p>
             </Link>
             <Link style={{textDecoration:'none'}} to="/">
-            <h2 style={{color:'white'}}>CARCIO MOTORS</h2>
+            <h2 style={{color:'white'}}>C<span style={{fontSize:'16px'}}>ARCIO</span> M<span style={{fontSize:'16px'}}>OTORS</span></h2>
              </Link>
             <p style={{color:'white',fontSize:'12px',textAlign:'center'}}>Vehicles and Parts available</p>
             </div>
