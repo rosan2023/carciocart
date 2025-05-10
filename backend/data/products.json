@@ -1,0 +1,187 @@
+[
+    {
+        "name": "Mercedes Benz C200",
+        "price": 30000,
+        "description": "C200 is a powerful car with Leather Seats extension feature, that offers brilliant operational speed to users.",
+        "mfgyear":2010,
+        "fregyear": 2010,
+        "engincapacity": "2000cc",
+        "color": "Black",
+        "noofdoors": 5,
+        "noofautodoors": 2,
+        "seatingcapacity": 5,
+        "geartype": "Auto",
+        "bodytype": "Sedan",
+        "oiltype": "Petrol",
+        "ratings": 4.5,
+        "images": [
+            {
+                "image": "/images/benz/Cars/C200-1.jpg"
+            },
+            {
+                "image": "/images/benz/Cars/c200-2.jpg"
+            }
+        ],
+        "category": "Car",
+        "seller": "Carcio Motors",
+        "stock": 5,
+        "numOfReviews": 15,
+        "reviews": []
+    },
+    {
+        "name": "BMW X!",
+        "price": 29000,
+        "description": "X1 are exclusively designed to fulfill the advanced tech needs of today’s generation.",
+        "mfgyear":2010,
+        "fregyear": 2010,
+        "engincapacity": "2000cc",
+        "color": "Black",
+        "noofdoors": 5,
+        "noofautodoors": 2,
+        "seatingcapacity": 5,
+        "geartype": "Auto",
+        "bodytype": "Sedan",
+        "oiltype": "Petrol",
+        "ratings": 3.5,
+        "images": [
+            {
+                "image": "/images/bmw/Cars/x1-1.jpg"
+            }
+        ],
+        "category": "Car",
+        "seller": "Carcio Motors",
+        "stock": 9,
+        "numOfReviews": 5,
+        "reviews": []
+    },
+    {
+        "name": "Toyota Alphard 2.4V",
+        "price": 32000,
+        "description": "Alphard 2.4V with Leather Seats, Touch Screen Audio Control, Good Condition",
+        "mfgyear":2010,
+        "fregyear": 2010,
+        "engincapacity": "2000cc",
+        "color": "Black",
+        "noofdoors": 5,
+        "noofautodoors": 2,
+        "seatingcapacity": 5,
+        "geartype": "Auto",
+        "bodytype": "Sedan",
+        "oiltype": "Petrol",
+        "ratings": 2,
+        "images": [
+            {
+                "image": "/images/toyota/Cars/alphard-1.jpg"
+            }
+        ],
+        "category": "Car",
+        "seller": "Carcio Motors",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Lexus Ls250",
+        "price": 22000,
+        "description": "Ls250 with Leather Seats, Touch Screen Audio Control, Good Condition",
+        "mfgyear":2010,
+        "fregyear": 2010,
+        "engincapacity": "2000cc",
+        "color": "Black",
+        "noofdoors": 5,
+        "noofautodoors": 2,
+        "seatingcapacity": 5,
+        "geartype": "Auto",
+        "bodytype": "Sedan",
+        "oiltype": "Petrol",
+        "ratings": 4,
+        "images": [
+          {
+            "image": "/images/lexus/Cars/ls250-1.jpg"
+          }
+        ],
+        "category": "Car",
+        "seller": "Carcio Motors",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+      },
+      {
+        "name": "Kia Sorento",
+        "price": 85000,
+        "description": "Sorento with Leather Seats, Touch Screen Audio Control, Good Condition",
+        "mfgyear":2010,
+        "fregyear": 2010,
+        "engincapacity": "2000cc",
+        "color": "Black",
+        "noofdoors": 5,
+        "noofautodoors": 2,
+        "seatingcapacity": 5,
+        "geartype": "Auto",
+        "bodytype": "Sedan",
+        "oiltype": "Petrol",
+        "ratings": 5,
+        "images": [
+          {
+            "image": "/images/kia/Cars/sorento-1.jpg"
+          }
+        ],
+        "category": "Car",
+        "seller": "Carcio Motors",
+        "stock": 9,
+        "numOfReviews": 12,
+        "reviews": []
+    },
+    {
+        "name": "Toyota Hiace",
+        "price": 110000,
+        "description": "Hiace with Leather Seats, Touch Screen Audio Control, Good Condition",
+        "mfgyear":2010,
+        "fregyear": 2010,
+        "engincapacity": "2000cc",
+        "color": "Black",
+        "noofdoors": 5,
+        "noofautodoors": 2,
+        "seatingcapacity": 6,
+        "geartype": "Auto",
+        "bodytype": "Commercial Van",
+        "oiltype": "Diesel",
+        "ratings": 5,
+        "images": [
+            {
+                "image": "/images/toyota/Vans/hiace-1.jpg"
+            }
+        ],
+        "category": "Van",
+        "seller": "Carcio Motors",
+        "stock": 4,
+        "numOfReviews": 20,
+        "reviews": []
+    },
+    {
+        "name": "Nissan Urvan",
+        "price": 120000,
+        "description": "Urvan with Leather Seats, Touch Screen Audio Control, Good Condition",
+        "mfgyear":2010,
+        "fregyear": 2010,
+        "engincapacity": "2000cc",
+        "color": "Black",
+        "noofdoors": 5,
+        "noofautodoors": 2,
+        "seatingcapacity": 5,
+        "geartype": "Auto",
+        "bodytype": "Commercial Van",
+        "oiltype": "Diesel",
+        "ratings": 3,
+        "images": [
+            {
+                "image": "/images/nissan/Vans/urvan-1.jpg"
+            }
+        ],
+        "category": "Van",
+        "seller": "Carcio Motors",
+        "stock": 6,
+        "numOfReviews": 9,
+        "reviews": []
+    }
+]
