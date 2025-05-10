@@ -20,10 +20,6 @@ export default function Header () {
     <nav className="navbar row">
         <div className="col-12 col-md-3">
           <div className="navbar-brand">
-            <Link to="/">
-              <h2 style={{color:'white'}}>CARCIO MOTORS </h2>
-              <p  style={{color:'white'}}>Vehicles and Parts available</p>
-            </Link>
             <Link style={{textDecoration:'none'}} to="/">
             <h2 style={{color:'white'}}>C<span style={{fontSize:'16px'}}>ARCIO</span> M<span style={{fontSize:'16px'}}>OTORS</span></h2>
              </Link>
