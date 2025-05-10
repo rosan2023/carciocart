@@ -21,7 +21,8 @@ export default function Header () {
         <div className="col-12 col-md-3">
           <div className="navbar-brand">
             <Link to="/">
-              <img width="150px" alt='carcio motor Logo' src="/images/carciomotor.png" />
+              <h2 style={{color:'white'}}>CARCIO MOTORS </h2>
+              <p  style={{color:'white'}}>Vehicles and Parts available</p>
             </Link>
             </div>
         </div>
